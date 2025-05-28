@@ -1,0 +1,36 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Configurações locais
+appsettings.Development.json
+appsettings.json
+
+# Pacotes
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider / JetBrains
+.idea/
+
+# Publish
+publish/
